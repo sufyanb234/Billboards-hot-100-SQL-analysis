@@ -4,6 +4,9 @@ A pure-SQL data analysis project exploring 50+ years of Billboard Hot 100 chart
 history, enriched with Spotify audio features, to answer: **how has hit music
 actually changed over the decades?**
 
+The full dataset is not included in this repository due to GitHub file size limitations.
+Dataset source: [https://www.kaggle.com/datasets/thedevastator/billboard-hot-100-audio-features]
+
 Built entirely in PostgreSQL 18 — no pandas, no notebooks, no BI tool. Every
 insight in this project comes from a `.sql` file, and every result is
 independently verifiable against the live [Billboard Hot 100
